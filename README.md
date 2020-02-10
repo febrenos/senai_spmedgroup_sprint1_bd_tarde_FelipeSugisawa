@@ -1,0 +1,2 @@
+# senai_spmedgroup_sprint1_bd_tarde_FelipeSugisawa
+Repositoria do projeto SpMedGroup
